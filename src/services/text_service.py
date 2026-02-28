@@ -34,7 +34,7 @@ Return exactly this structure:
     "word": "{word}",
     "translation": "Arabic translation of the word",
     "sentence": "A simple A2-level English sentence using the word (3-7 words)",
-    "image_prompt": "A specific visual description for an AI image generator, minimalist vector art style, no text in image"
+    "image_prompt": "A specific visual description for an AI image generator, minimalist vector art style, no text"
 }}"""
 
         try:
